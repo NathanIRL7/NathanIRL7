@@ -1,11 +1,11 @@
 ## # About me
 
 Hi, I’m Nathan.  
-I’m interested in software, automation, and technology.
+I’m interested in software and technology.
 
 # What I’m working on
 
-I’m currently building a simple automation tool to help people make their work easier.
+I’m currently building SnipVault a personal code libary that gets smarter over time.
 
 # Tools I use
 
@@ -13,8 +13,10 @@ I’m currently building a simple automation tool to help people make their work
 - CSS
 - JavaScript
 - Supabase
-- Visual Studio Code
+- Cursor
 - Claude/Chatgpt
+- sql
+- node.js
 
 # Contact
 

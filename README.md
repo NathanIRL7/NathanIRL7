@@ -5,7 +5,8 @@ I’m interested in software and technology.
 
 # What I’m working on
 
-I’m currently building SnipVault a personal code libary that gets smarter over time.
+I’m currently building Scribe a Tool that finsishes boring tasks for FreelancerOS.
+Dropping soon...
 
 # Tools I use
 

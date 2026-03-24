@@ -5,19 +5,25 @@ I’m interested in software and technology.
 
 # What I’m working on
 
-I’m currently building Scribe a Tool that finsishes boring tasks for FreelancerOS.
-Dropping soon...
+
+Building Scribe – AI agent that finds clients 
+and writes emails for freelancers while they sleep.
+
+14 y/o founder from  Germany  
+
 
 # Tools I use
 
 - HTML
-- CSS
+- Tailwind CSS
 - JavaScript
 - Supabase
 - Cursor
 - Claude/Chatgpt
 - sql
 - node.js
+- Typescript
+- Phyton
 
 # Contact
 

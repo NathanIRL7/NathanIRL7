@@ -14,16 +14,16 @@ and writes emails for freelancers while they sleep.
 
 # Tools I use
 
-- HTML
 - Tailwind CSS
 - JavaScript
 - Supabase
 - Cursor
-- Claude/Chatgpt
+- Phyton
 - sql
 - node.js
 - Typescript
 - Phyton
+- next.js
 
 # Contact
 

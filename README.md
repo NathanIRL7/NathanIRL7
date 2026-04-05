@@ -6,7 +6,7 @@ I’m interested in software and technology.
 # What I’m working on
 
 
-Building Scribe – AI agent that finds clients 
+Building cosrib – AI agent that finds clients 
 and writes emails for freelancers while they sleep.
 
 14 y/o founder from  Germany  
@@ -18,7 +18,7 @@ and writes emails for freelancers while they sleep.
 - JavaScript
 - Supabase
 - Cursor
-- Phyton
+- Phyton (sometimes)
 - sql
 - node.js
 - Typescript

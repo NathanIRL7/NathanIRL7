@@ -1,6 +1,6 @@
 ## # About me
 
-Hi, I’m Nathan.  
+Servus, I’m Nathan.  
 I’m interested in software and technology.
 
 # What I’m working on

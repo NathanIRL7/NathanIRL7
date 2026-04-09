@@ -1,4 +1,4 @@
-## # About me
+## About me
 
 Servus, I’m Nathan.  
 I’m interested in software and technology.
@@ -15,15 +15,11 @@ and writes emails for freelancers while they sleep.
 # Tools I use
 
 - Tailwind CSS
-- JavaScript
-- Supabase
-- Cursor
-- Phyton (sometimes)
-- sql
-- node.js
-- Typescript
-- Phyton
-- next.js
+- Java script
+- tsx
+- type script
+- Phyton ( sometimes)
+
 
 # Contact
 

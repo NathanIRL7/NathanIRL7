@@ -12,12 +12,12 @@ and writes emails for freelancers while they sleep.
 14 y/o founder from  Germany  
 
 
-# Tools I use
+# Tech stack
 
 - Tailwind CSS
 - Java script
 - tsx
-- mjs
+- golang
 - type script
 - Phyton ( sometimes)
 

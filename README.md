@@ -17,6 +17,7 @@ and writes emails for freelancers while they sleep.
 - Tailwind CSS
 - Java script
 - tsx
+- mjs
 - type script
 - Phyton ( sometimes)
 

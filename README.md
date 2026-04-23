@@ -19,7 +19,7 @@ and writes emails for freelancers while they sleep.
 - tsx
 - golang
 - type script
-- Python ( sometimes)
+- Python
 
 
 # Contact

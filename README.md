@@ -20,6 +20,8 @@ and writes emails for freelancers while they sleep.
 - golang
 - type script
 - Python
+- HTML
+- CSS
 
 
 # Contact

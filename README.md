@@ -9,7 +9,7 @@ I’m interested in software and technology.
 Building cosrib – AI agent that finds clients 
 and writes emails for freelancers while they sleep.
 
-14 y/o founder from  Germany  
+14 y/o founder from  Germany(Bavaria
 
 
 # Tech stack

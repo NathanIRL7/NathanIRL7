@@ -22,6 +22,7 @@ and writes emails for freelancers while they sleep.
 - Python
 - HTML
 - CSS
+- SQL
 
 
 # Contact

@@ -27,9 +27,9 @@ and writes emails for freelancers while they sleep.
 
 # Contact
 
-Email: nathandawit362@gmail.com
-Discord:nathanirl_7 
-X/Twitter:NathanIRL_7
+- Email: nathandawit362@gmail.com
+- Discord:nathanirl_7 
+- X/Twitter:NathanIRL_7
 
 
 

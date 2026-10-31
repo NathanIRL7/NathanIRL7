@@ -1,33 +1,23 @@
 ## About me
 
 Servus, I’m Nathan.  
-I’m interested in software and technology.
+I’m interested in software, electronics 
+and hardware engineering.
 
 # What I’m working on
+- Learning C and Python (main)
+- Exploring electronics and microcontrollers
+- Building projects
 
 
-Building cosrib – AI agent that finds clients 
-and writes emails for freelancers while they sleep.
-
-15 y/o founder from  Germany(Bavaria)
-
-
-# Tech stack
-
-- Tailwind CSS
-- Java script
-- tsx
-- golang
-- type script
+# Tech intrest
+- Typescript
+- C
 - Python
-- HTML
-- CSS
-- SQL
+- Electronics
 
 
 # Contact
-
-- Email: nathandawit362@gmail.com
 - Discord:nathanirl_7 
 - X/Twitter:NathanIRL_7
 
